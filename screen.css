@@ -438,10 +438,11 @@ input[type=text],input[type=tel],input[type=email]{
    resize: vertical;
 
 }
-@media only screen and (max-width: 1048px) {
+@media only screen and (max-width: 960px) {
     /* For mobile phones: */
     .form{
-	margin: 2% 5% 2% 5%;
+	padding: 5%;
+	    margin: 2% 5% 2% 5%;
 
     }
     fieldset{
