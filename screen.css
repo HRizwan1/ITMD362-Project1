@@ -442,13 +442,15 @@ input[type=text],input[type=tel],input[type=email]{
     /* For mobile phones: */
     .form{
         padding: 5%;
+	margin: 2% 5% 2% 5%;
+
     }
     fieldset{
       width: 100%;
 
     }
     input[type=text],input[type=tel],input[type=email]{
-        width: 100;
+        width: 100%;
 
     }
     h2{
