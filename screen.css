@@ -440,13 +440,10 @@ input[type=text],input[type=tel],input[type=email]{
 }
 @media only screen and (max-width: 960px) {
     /* For mobile phones: */
-    body {
-text-align:center;
-}
-
-.form {
-margin: 0 auto !important;
-}
+   .form{
+        padding: 5%;
+        margin: 2% 5% 2% 5%;
+    } 
     fieldset{
       width: 100%;
 
