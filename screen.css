@@ -449,11 +449,11 @@ input[type=text],input[type=tel],input[type=email]{
 
     }
     input[type=text],input[type=tel],input[type=email]{
-        width: 92%;
+        width: 93%;
 
     }
 	input[type=submit]{
-  width: 92%; 
+  width: 93%; 
 }
     h2{
       font-size: 5vw;
