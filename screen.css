@@ -390,10 +390,6 @@ template {
   display: none;
 }
 
-body {
-    background-image: images/background.jpg;
-}
-
 footer{
   text-align: center;
   margin-bottom: 10%;
