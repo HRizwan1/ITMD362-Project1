@@ -439,52 +439,26 @@ input[type=text],input[type=tel],input[type=email]{
 
 }
 
-@media only screen and (max-width: 720px) {
-    /* For mobile phones: w 720px */
-.column{
-  padding: 5%;
-  margin: 10% 25% 10% 25%;
-  }
-fieldset{
-  width: 90%;
-  }
-input[type=text],input[type=tel],input[type=email],input[type=date]{
-  width: 100%;
-  }
-h2{
-  font-size: 2vw;
-  margin-top: 5%;
-  }
-h3{
-  font-size: 4vw;
-  }
-img{
-  width: 40%;
-  height: auto;
-  }
-}
-
-@media only screen and (max-width: 1048px) {
-    /* For mobile phones: w 1048px */
-.column{
-  padding: 5%;
-  margin: 2% 5% 2% 5%;
-  }
-fieldset{
-  width: 90%;
-  }
-input[type=text],input[type=tel],input[type=email],input[type=date]{
-  width: 100%;
-  }
-h2{
-  font-size: 5vw;
-  margin-top: 5%;
-  }
-h3{
-  font-size: 4vw;
-  }
-img{
-  width: 50%;
-  height: auto;
-  }
-}
+@media only screen and (max-width: 960px) {
+  /* For mobile phones: */
+  .form{
+    padding: 5%;
+    margin: 2% 5% 2% 5%;
+    } 
+  fieldset{
+    width: 100%;
+    }
+  input[type=text],input[type=tel],input[type=email]{
+    width: 93%;
+    }
+  input[type=submit]{
+    width: 93%; 
+    }
+  h2{
+    font-size: 5vw;
+    margin-top: 5%;
+    }
+  img{
+    width: 50%;
+    height: auto;
+    }
