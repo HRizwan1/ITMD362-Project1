@@ -444,6 +444,24 @@ input[type=text],input[type=tel],input[type=email]{
    resize: vertical;
 
 }
+@media only screen and (max-width: 720px) {
+    /* For mobile phones: w 720px */
+.form{
+  padding: 5%;
+  margin: 10% 25% 10% 25%;}
+fieldset{
+  width: 90%;}
+input[type=text],input[type=tel],input[type=email],input[type=date]{
+  width: 100%;}
+h3{
+  font-size: 4vw;}
+h2{
+  font-size: 2vw;
+  margin-top: 5%;}
+img{
+  width: 40%;
+  height: auto;}
+
 @media only screen and (max-width: 960px) {
     /* For mobile phones: */
    .form{
