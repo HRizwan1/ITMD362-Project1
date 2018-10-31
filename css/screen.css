@@ -413,10 +413,10 @@ h1{
 }
 h2{
   text-align: center;
+  color: white;
   font-size: 200%;
   font-weight: bold;
   margin-top: 2%
-  color: white;
 }
 .form {
     padding: 2%;
