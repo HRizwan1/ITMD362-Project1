@@ -400,7 +400,7 @@ body {
   line-height: 1.5;
 }
 footer{
-  font-family: 'URW Chancery L', cursive;
+  font-family:'Monotype Corsiva','Apple Chancery','ITC Zapf Chancery','URW Chancery L',cursive;
   text-align: center;
   margin-bottom: 10%;
   font-weight: bold;
