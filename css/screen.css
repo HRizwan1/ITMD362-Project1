@@ -435,13 +435,13 @@ input[type=submit]{
 }
 input[type=text],input[type=tel],input[type=email]{
   width: 100%;
-   padding: 4px;
-   border: 1px solid #ccc;
-   border-radius: 4px;
-   box-sizing: border-box;
-   margin-top: 6px;
-   margin-bottom: 16px;
-   resize: vertical;
+  padding: 4px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
 
 }
 @media only screen and (max-width: 720px) {
