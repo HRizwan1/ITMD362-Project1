@@ -408,11 +408,13 @@ footer{
   color: white;
 }
 h1{
+  font-family: "DejaVu Sans", "Bitstream Vera Sans", "Segoe UI", "Lucida Grande", Verdana, Tahoma, Arial, sans-serif;
   margin-top: 2%;
   text-align: center;
   color: white;
 }
 h2{
+  font-family:Constantina,Georgia,'Nimbus Roman No9 L',serif;  
   text-align: center;
   color: white;
   font-size: 200%;
